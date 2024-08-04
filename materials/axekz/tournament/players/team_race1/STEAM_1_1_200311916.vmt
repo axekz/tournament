@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+    "$basetexture" "axekz/tournament/players/team_race1/STEAM_1_1_200311916"
+    "$translucent" 1
+    "$decal" "1"
+    "$decalscale" "0.15"
+    "$selfillum" 1
+}
